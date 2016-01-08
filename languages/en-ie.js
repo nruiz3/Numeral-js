@@ -1,7 +1,6 @@
 /*! 
  * numeral.js language configuration
- * language : french (fr)
- * author : Adam Draper : https://github.com/adamwdraper
+ * language : English-Ireland (en-ie)
  */
 (function () {
     var language = {
